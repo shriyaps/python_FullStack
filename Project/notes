@@ -1,0 +1,25 @@
+ {
+    "emp_id": 1,
+    "first_name": "Shriya",
+    "last_name": "Shetty",
+    "email": "shriyaps23@gmail.com",
+    "mobile": 8928905570,
+    "location": "Mumbai",
+    "job_role": " Developer",
+    "hire_date": "2019-06-15",
+    "salary": 500000.0
+
+}
+
+{
+    "emp_id": 2,
+    "first_name": "Rach",
+    "last_name": "Sampat",
+    "email": "radhika.sampat@gmail.com",
+    "mobile": 9856021365,
+    "location": "Mumbai",
+    "job_role": " Developer",
+    "hire_date": "2019-06-15",
+    "salary": 1900000.0
+
+}
